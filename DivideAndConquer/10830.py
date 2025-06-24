@@ -1,5 +1,3 @@
-
-
 def mul(U, V):
     n = len(U)
     Z = [[0]*n for _ in range(n)]
